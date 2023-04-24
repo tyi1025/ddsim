@@ -2,7 +2,6 @@
 	path = extern/qfr
 	url = https://github.com/tyi1025/qfr.git
     branch = mem-opt-qfr-tw
-    shallow = true
 [submodule "extern/taskflow"]
 	path = extern/taskflow
 	url = https://github.com/taskflow/taskflow.git
